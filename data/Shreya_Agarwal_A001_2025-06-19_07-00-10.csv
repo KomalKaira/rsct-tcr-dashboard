@@ -1,0 +1,2 @@
+Rater Name,Date,Timestamp,Arc No,Batch No,Client Readiness (Before),Range Start CS#,Range End CS#,Client Readiness (After),Row_1_TS#,Row_1_TF,Row_1_Impact,Row_1_Confidence,Row_1_Notes,Row_2_TS#,Row_2_TF,Row_2_Impact,Row_2_Confidence,Row_2_Notes,Row_3_TS#,Row_3_TF,Row_3_Impact,Row_3_Confidence,Row_3_Notes,Row_4_TS#,Row_4_TF,Row_4_Impact,Row_4_Confidence,Row_4_Notes,Row_5_TS#,Row_5_TF,Row_5_Impact,Row_5_Confidence,Row_5_Notes
+Shreya Agarwal,2025-06-19,2025-06-19 07:00:10,A001,Batch test 1,Not open,1,1,Not open,1,1,+1,1,,1,1,+1,1,,1,1,+1,1,,1,1,+1,1,,1,1,+1,1,
