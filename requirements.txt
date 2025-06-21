@@ -1,5 +1,6 @@
 streamlit
-fpdf
 pandas
-numpy
-
+fpdf
+pydrive2
+base64io
+shutilwhich  # This is not standard; you may not need it unless explicitly used
