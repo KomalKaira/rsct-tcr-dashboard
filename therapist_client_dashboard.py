@@ -62,16 +62,14 @@ CREDENTIALS_FILE = os.path.join(DATA_DIR, "rater_credentials.json")
 ENTRIES_FILE = os.path.join(DATA_DIR, "rater_entries.csv")
 ARCS_FILE = os.path.join(DATA_DIR, "arcs.csv")
 
-# === GOOGLE DRIVE AUTH ===
-from oauth2client.service_account import ServiceAccountCredentials
+# === GOOGLE DRIVE AUTH (streamlit + pydrive2) ===
 import json
 import tempfile
-from pydrive.auth import GoogleAuth
-from pydrive.drive import GoogleDrive
+from pydrive2.auth import GoogleAuth
+from pydrive2.drive import GoogleDrive
 
-# ✅ Load service account credentials directly from file
-with open("data/service_account_key.json", "r") as f:
-    service_creds = json.load(f)
+# ✅ Load service account credentials from Streamlit secrets
+service_creds = dict(st.secrets["google_service_account"])
 
 # ✅ Write credentials to a temporary JSON file
 with tempfile.NamedTemporaryFile(delete=False, suffix=".json", mode="w") as tmp:
@@ -79,7 +77,7 @@ with tempfile.NamedTemporaryFile(delete=False, suffix=".json", mode="w") as tmp:
     tmp.flush()
     tmp_path = tmp.name
 
-# ✅ Authenticate with Google Drive using PyDrive
+# ✅ Authenticate with Google Drive using PyDrive2
 gauth = GoogleAuth()
 gauth.settings['client_config_backend'] = 'service'
 gauth.settings['service_config'] = {
@@ -92,8 +90,6 @@ gauth.ServiceAuth()
 drive = GoogleDrive(gauth)
 
 
-# ✅ Create a Google Drive instance
-drive = GoogleDrive(gauth)
 
 
 
