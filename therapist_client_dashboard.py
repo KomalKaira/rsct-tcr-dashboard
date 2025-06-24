@@ -64,13 +64,14 @@ ARCS_FILE = os.path.join(DATA_DIR, "arcs.csv")
 
 # === GOOGLE DRIVE AUTH ===
 from oauth2client.service_account import ServiceAccountCredentials
-import tempfile
 import json
+import tempfile
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
-# ✅ Load service account credentials from Streamlit secrets
-service_creds = dict(st.secrets["google_service_account"])
+# ✅ Load service account credentials directly from file
+with open("data/service_account_key.json", "r") as f:
+    service_creds = json.load(f)
 
 # ✅ Write credentials to a temporary JSON file
 with tempfile.NamedTemporaryFile(delete=False, suffix=".json", mode="w") as tmp:
@@ -86,6 +87,10 @@ gauth.settings['service_config'] = {
     "client_user_email": service_creds["client_email"]
 }
 gauth.ServiceAuth()
+
+# ✅ Create Drive instance
+drive = GoogleDrive(gauth)
+
 
 # ✅ Create a Google Drive instance
 drive = GoogleDrive(gauth)
