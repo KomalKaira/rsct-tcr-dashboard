@@ -282,14 +282,40 @@ if st.session_state.get("authenticated") and st.session_state.get("rater_name") 
                             f"<b style='color:#2b8cd6'>{tag}</b>: {text.split(':',1)[-1].strip()}</div>"
                         )
 
-                # === SIDEBAR ARC VIEWER ===
-                with st.sidebar:
-                    st.markdown("### 📜 ARC Viewer")
-                    st.markdown(
-                        "<div style='max-height:400px; overflow-y:auto; padding-right:10px'>" +
-                        ''.join(blocks) + "</div>",
-                        unsafe_allow_html=True
-                    )
+               # === ARC VIEWER (Fixed: Display Therapist & Client Blocks) ===
+st.markdown("### 🧵 ARC Viewer")
+
+# Safe arc file extraction
+if not arc_row.empty:
+    arc_filename = arc_row.iloc[0]["Arc Filename"].strip()
+    arc_file_path = os.path.join("data", "arc_files", arc_filename)
+
+    if os.path.exists(arc_file_path):
+        with open(arc_file_path, "r", encoding="utf-8") as file:
+            arc_text = file.read()
+
+        # Format display blocks
+        def format_statement_block(statement):
+            if statement.strip().startswith("TS"):
+                return f"<div style='background-color:#ffd4e5; color:#000; padding: 1rem; border-radius: 10px; margin-bottom: 0.5rem;'><b style='color:#d0006f'>{statement.split(':')[0]}:</b>{':'.join(statement.split(':')[1:])}</div>"
+            elif statement.strip().startswith("CS"):
+                return f"<div style='background-color:#e6f7ff; color:#000; padding: 1rem; border-radius: 10px; margin-bottom: 0.5rem;'><b style='color:#0056b3'>{statement.split(':')[0]}:</b>{':'.join(statement.split(':')[1:])}</div>"
+            else:
+                return f"<div style='background-color:#f0f0f0; color:#000; padding: 1rem; border-radius: 10px; margin-bottom: 0.5rem;'>{statement}</div>"
+
+        blocks = arc_text.strip().split("\n")
+        formatted_blocks = "\n".join([format_statement_block(b) for b in blocks if b.strip()])
+
+        # Show in scrollable container
+        st.markdown(f"""
+        <div style='background-color:#1b1123; padding: 1.5rem; height: 650px; overflow-y: scroll; border-radius: 12px; line-height: 1.7;'>
+            {formatted_blocks}
+        </div>
+        """, unsafe_allow_html=True)
+    else:
+        st.error("❌ Arc file not found.")
+
+
 
             # === DOMAIN DISPLAY ===
             st.markdown("### 🗝 Domain")
@@ -306,8 +332,10 @@ if st.session_state.get("authenticated") and st.session_state.get("rater_name") 
             start_cs = col2.selectbox("From CS#", client_indices, key="start_cs")
             end_cs = col2.selectbox("To CS#", client_indices, index=len(client_indices)-1, key="end_cs")
 
-            if client_indices.index(end_cs) < client_indices.index(start_cs):
-                st.warning("⚠️ 'To' statement must come after 'From' statement.")
+            if start_cs in client_indices and end_cs in client_indices:
+                if client_indices.index(end_cs) < client_indices.index(start_cs):
+                    st.warning("⚠️ 'To' statement must come after 'From' statement.")
+
 
            
 
