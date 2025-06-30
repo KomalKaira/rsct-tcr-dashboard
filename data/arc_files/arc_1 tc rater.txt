@@ -1,194 +1,138 @@
-﻿________________
 
 
-Client Statement 1:
-There’s more than just my lack of expertise that may be causing it. So I shared it with my CTO and asked him to create a temporary repository for code where I could just put it. If people want, they can check it out. There’s also a chance it might work on the cloud—it might not be working on my local experiment. They agreed and said, “Okay, let’s try it out when we execute the cloud access product.” That opened some communication barriers for me.
+
+CS1: There’s more than just my lack of expertise that may be causing it. So I shared it with my CTO and asked him to create a temporary repository for code where I could just put it. If people want, they can check it out. There’s also a chance it might work on the cloud—it might not be working on my local experiment. They agreed and said, “Okay, let’s try it out when we execute the cloud access product.” That opened some communication barriers for me.
 When I can’t solve a problem like this, I get bogged down by old memories, and self-doubt creeps in—like, “I couldn’t solve this.” But lately, as I mentioned in our last call, I’ve been trying things. We can go to forums, check people’s discussions. I did that a bit. I’m using an AI tool. It’s not very accurate, but something is better than nothing. Now I’m trying the same problem with a different approach using a new language. Since I get stuck at the same point there too, then the problem is fixed. So I just have to tackle that part.
-________________
 
 
-Therapist Statement 1:
-Can I pause you here?
-________________
+TS1: Can I pause you here?
 
 
-Client Statement 2:
-[Nods head.]
-________________
+CS2: [Nods head.]
 
 
-Therapist Statement 2:
-I know that many times you and I have spoken about how you feel in the face of work obstacles. I’m wondering—this shift you’re trying, is it impacting how you feel or think about yourself?
-________________
+
+TS2: I know that many times you and I have spoken about how you feel in the face of work obstacles. I’m wondering—this shift you’re trying, is it impacting how you feel or think about yourself?
 
 
-Client Statement 3:
-One thing I used to do when I faced that situation is: on the next attempt, try too hard. That’s what I used to do earlier. Now I remind myself that by trying too hard, I actually undermine my own confidence. So I won’t do that. Keeping my cool means a few things: don’t get jittery when facing unexpected challenges—everyone faces those. There’s nothing unique about me facing them.
+CS3: One thing I used to do when I faced that situation is: on the next attempt, try too hard. That’s what I used to do earlier. Now I remind myself that by trying too hard, I actually undermine my own confidence. So I won’t do that. Keeping my cool means a few things: don’t get jittery when facing unexpected challenges—everyone faces those. There’s nothing unique about me facing them.
 Second, not getting carried away if there's success. It’s like delayed gratification. If I feel really good, I drink a coffee first. If I still can’t focus on work because I’m too elated, I go out. That grounds me quite well. Then I can come back and think more calmly.
 Also, I rarely get lost in thought now. I’ve converted most of my mental work into either sensory or physical work. There are still challenges, but the intention is to not stay in my head if that doesn’t work for me. I trace my progress. My interest in work has grown. It’s less suffering to work when I have nothing to do, rather than watch videos idly. If I watch videos without anything to seek from them, it's idle watching. And it affects me negatively because I’ve become emotionally quite sensitive—this wasn’t the case earlier.
-________________
 
 
-Therapist Statement 3:
-[Nods head.]
-________________
+TS3: [Nods head.]
 
 
-Client Statement 4:
-So now I don’t see work as a big challenge or burden—it’s also a way to pass time. And interactions I get to have on LinkedIn are encouraging. Work feels like a good way to spend time.
-________________
+CS4: So now I don’t see work as a big challenge or burden—it’s also a way to pass time. And interactions I get to have on LinkedIn are encouraging. Work feels like a good way to spend time.
 
 
-Therapist Statement 4:
-I see work has become very, very important in your life.
-________________
+TS4: I see work has become very, very important in your life.
 
 
-Client Statement 5:
-Yes. I used to get bogged down—this is something I’ve always struggled with. I don’t have marketable skills right now, and I don’t have a job. Either I get no money, or I get loads of money. Why this kind of dichotomy? Maybe I do like challenges, but there are peripheral things I struggle with. If I can mitigate those, I think I can make a case for myself.
-________________
+CS5: Yes. I used to get bogged down—this is something I’ve always struggled with. I don’t have marketable skills right now, and I don’t have a job. Either I get no money, or I get loads of money. Why this kind of dichotomy? Maybe I do like challenges, but there are peripheral things I struggle with. If I can mitigate those, I think I can make a case for myself.
 
 
-Therapist Statement 5:
-It sounds like you're putting yourself more and more out there at work. Specifically, it sounds like you're feeling safer having difficult conversations at work too.
-________________
+
+TS5: It sounds like you're putting yourself more and more out there at work. Specifically, it sounds like you're feeling safer having difficult conversations at work too.
+
+CS6: Yes. I make an effort to talk more to my colleagues, if possible, because there's context when I speak to them—and that brings some satisfaction. I've been missing that for a long time. I’ve spent 25 years without peers. That’s not normal. So even though they’re much younger than me, in the work context, they’re my peers.
 
 
-Client Statement 6:
-Yes. I make an effort to talk more to my colleagues, if possible, because there's context when I speak to them—and that brings some satisfaction. I've been missing that for a long time. I’ve spent 25 years without peers. That’s not normal. So even though they’re much younger than me, in the work context, they’re my peers.
-________________
+TS6: These interactions—because they were minimal before—how are they coming along for you now? I know we’ve spoken about social anxiety and how others might perceive you in those settings. 
+
+CS7: The feeling of how other women feel around me is not one of anxiety, but a sort of problem of plenty. So it’s not that difficult. But it is irritating. It doesn't bother me much because it only happens when we don't get to speak. Once I speak, I can usually put people at ease. That’s not a problem. I seem to connect well with Gen-Z for some reason. So it’s going quite well. If I can address my professional insecurities, I think I can look forward to a career where, at least for the time being, I can do this labor-intensive work. I look at it as labor-intensive right now because a lot of it involves less planning and more actual work. Gradually, I can probably use this experience to go for leadership roles more suited for a person my age—because I don’t think I can maintain this level of intensity of labor for very long.
 
 
-Therapist Statement 6:
-These interactions—because they were minimal before—how are they coming along for you now? I know we’ve spoken about social anxiety and how others might perceive you in those settings. What’s it feeling like now at work?
-________________
+
+TS7: So it’s not just about your professional identity in the now. I’m hearing that it’s also helping you foresee the identity you’d like to have going forward—what kind of work you’d like to engage in, from something more hands-on now to something more managerial later. You’re seeing this as a stepping stone. Whether it’s conversations with peers or the CEO, all of it is oriented toward learning and testing the workspace for yourself. Is it?
 
 
-Client Statement 7:
-The feeling of how other women feel around me is not one of anxiety, but a sort of problem of plenty. So it’s not that difficult. But it is irritating. It doesn't bother me much because it only happens when we don't get to speak. Once I speak, I can usually put people at ease. That’s not a problem. I seem to connect well with Gen-Z for some reason. So it’s going quite well. If I can address my professional insecurities, I think I can look forward to a career where, at least for the time being, I can do this labor-intensive work. I look at it as labor-intensive right now because a lot of it involves less planning and more actual work. Gradually, I can probably use this experience to go for leadership roles more suited for a person my age—because I don’t think I can maintain this level of intensity of labor for very long.
-________________
+
+CS8: I haven’t reached that level yet, but yes, I think I have something going for me in the leadership context. I just don’t have the technical leadership experience, and that’s what gets looked at first. The rest are soft skills. So I need to get that hard skill—this is what I hope to do with this role. And I have to do this. There’s no option. I’m lucky that I’ve got an environment to do it in right now. They already have a good opinion of me. So when required, I just need to put my head down and do what’s needed, hopefully.
 
 
-Therapist Statement 7:
-So it’s not just about your professional identity in the now. I’m hearing that it’s also helping you foresee the identity you’d like to have going forward—what kind of work you’d like to engage in, from something more hands-on now to something more managerial later. You’re seeing this as a stepping stone. Whether it’s conversations with peers or the CEO, all of it is oriented toward learning and testing the workspace for yourself. Is it?
-________________
+
+TS8: Glad to hear that things are working out at work. I know it was a big stressor earlier, but it seems like you’re navigating daily obstacles the way most people do now.
 
 
-Client Statement 8:
-I haven’t reached that level yet, but yes, I think I have something going for me in the leadership context. I just don’t have the technical leadership experience, and that’s what gets looked at first. The rest are soft skills. So I need to get that hard skill—this is what I hope to do with this role. And I have to do this. There’s no option. I’m lucky that I’ve got an environment to do it in right now. They already have a good opinion of me. So when required, I just need to put my head down and do what’s needed, hopefully.
-________________
+
+CS9: Yeah… I don’t know how people navigate daily obstacles at work anymore. But it doesn’t bother me. As long as I can navigate my own and communicate with people to get things done, then I feel like I fit in. I don’t need to be like someone else. Work is about having a common goal. If I can contribute toward that and make the process enjoyable, then that’s all that matters. The problem comes when there is no goal.
 
 
-Therapist Statement 8:
-Glad to hear that things are working out at work. I know it was a big stressor earlier, but it seems like you’re navigating daily obstacles the way most people do now.
-________________
+TS9: That is valid. Yet the lack of a goal is not the problem we’re in right now. Before I paused you, I think you were pivoting toward something more personal. Would you like to bring that up now?
 
 
-Client Statement 9:
-Yeah… I don’t know how people navigate daily obstacles at work anymore. But it doesn’t bother me. As long as I can navigate my own and communicate with people to get things done, then I feel like I fit in. I don’t need to be like someone else. Work is about having a common goal. If I can contribute toward that and make the process enjoyable, then that’s all that matters. The problem comes when there is no goal.
-________________
-
-
-Therapist Statement 9:
-That is valid. Yet the lack of a goal is not the problem we’re in right now. Before I paused you, I think you were pivoting toward something more personal. Would you like to bring that up now?
-________________
-
-
-Client Statement 10:
-Yeah. So, I worked out a monthly maintenance agreement with a new business coming into the ground floor, and they paid the first rent as well. That’s settled. I’ve decided the guy is reasonable, he just doesn’t communicate that well. I told him clearly, “In this building, your owner doesn’t cooperate. If you want to get things done, you must communicate with me. Don’t resort to tactics. Talk to me directly; we don’t have the time to create problems.”
+CS10: Yeah. So, I worked out a monthly maintenance agreement with a new business coming into the ground floor, and they paid the first rent as well. That’s settled. I’ve decided the guy is reasonable, he just doesn’t communicate that well. I told him clearly, “In this building, your owner doesn’t cooperate. If you want to get things done, you must communicate with me. Don’t resort to tactics. Talk to me directly; we don’t have the time to create problems.”
 I felt I was able to communicate that without sounding aggressive. When I try to sound tough, I don’t like how I sound. It goes to the other extreme; I sound like I’m in a movie. I’m not used to it. So I figured the basic thing is to stay cool. I can always take my time to respond. That’s something I’ve realized—when a problem comes up, I don’t have to react immediately. 99% of the time, it’s not required unless your life is in danger. That’s what I’ve realized.
 Most of these problems people create are mental problems. If I stay cool, it helps me. The problem may not get solved, but I shouldn’t feel that I must solve it no matter what. That’s the kind of situation I’ve been in for the past six or seven years, everything comes on my head. I’ve become like that in my thinking. Then I realized: a new tenant came and agreed to the maintenance I proposed. We didn’t even negotiate. I know it’s lower than what other buildings charge, but we also provide fewer facilities. It’s still about 60% more than what we were charging the old tenant. That hadn’t been updated for a very long time.
-________________
 
 
-Client Statement 11:
-I lied about what the old trend was and said we usually ask for 10–15% more. They agreed. The amount is reasonable. The only lie was about the comparison point. They agreed immediately. I was appraised that the owner would try to take the maintenance and insist I take it from him—some politics. But because of all the electrical problems that happened, I really blasted them. The owner also got shocked. That was supposed to be the owner's job, not the tenant's. The owner made the tenant do it, and the tenant messed it up. I blasted the tenant. Then the tenant went to the owner. The owner called—I didn’t pick up. So the guy didn’t even come meet me. My watchman asked if he wanted to. He said it was okay.
+CS11: I lied about what the old trend was and said we usually ask for 10–15% more. They agreed. The amount is reasonable. The only lie was about the comparison point. They agreed immediately. I was appraised that the owner would try to take the maintenance and insist I take it from him—some politics. But because of all the electrical problems that happened, I really blasted them. The owner also got shocked. That was supposed to be the owner's job, not the tenant's. The owner made the tenant do it, and the tenant messed it up. I blasted the tenant. Then the tenant went to the owner. The owner called—I didn’t pick up. So the guy didn’t even come meet me. My watchman asked if he wanted to. He said it was okay.
 I think I’m happy about this, and I have a plan to extract part of the compensation for the little damage they caused. I’m going to go slow about it because I don’t want to lose my cool. Otherwise, I’ll get stereotyped as someone who gets angry too easily.
 
 
-________________
 
 
-Client Statement 12:
-I used the phrase “serotonin soak” in a LinkedIn comment recently—about chasing the endpoint rush. That idea helps me deal with stress. This is part of me becoming an adult, for my own good. I'm very happy that I’m figuring out adulting—as a person with a history of what sounds like a dangerous illness. So I feel like a champion. It’s good. It’s okay.
-________________
+
+CS12: I used the phrase “serotonin soak” in a LinkedIn comment recently—about chasing the endpoint rush. That idea helps me deal with stress. This is part of me becoming an adult, for my own good. I'm very happy that I’m figuring out adulting—as a person with a history of what sounds like a dangerous illness. So I feel like a champion. It’s good. It’s okay.
 
 
-Therapist Statement 10:
-It sounds like there's so much pressure on constantly having your boat stay afloat that you have to navigate no matter what the weather might be, what the storms may look like. There should be absolutely no damage, no scratch to the boat, to the ship—that is you. Which I mean makes sense in theory, but it also sounds like would require a lot of work, and around-the-clock alertness. Almost like a tightknit bounding around what we are calling functionality.
-________________
+
+TS10: It sounds like there's so much pressure on constantly having your boat stay afloat that you have to navigate no matter what the weather might be, what the storms may look like. There should be absolutely no damage, no scratch to the boat, to the ship—that is you. Which I mean makes sense in theory, but it also sounds like would require a lot of work, and around-the-clock alertness. Almost like a tightknit bounding around what we are calling functionality.
 
 
-Client Statement 13:
-Yes, it started with all alertness, but now actually this alertness feels more enjoyable than the instability of thought processing and timing. At least we'll find something better in the future, but for now the alertness is okay. And also I think I'm feeling very good nowadays in general, that I'm getting to build a rapport with my colleagues—only through text messages of course—but it is happening. So let's see. I just see there's no reason for me to think because I've changed so much that I don't know what my likes and dislikes are. So that is currently protecting me from any kind of bewilderment. The fact that certain things need to be done keeps me involved. There are times when I'm free, I don't know what to do. I used to waste myself earlier but I'm not even doing that.
-________________
+
+CS13: Yes, it started with all alertness, but now actually this alertness feels more enjoyable than the instability of thought processing and timing. At least we'll find something better in the future, but for now the alertness is okay. And also I think I'm feeling very good nowadays in general, that I'm getting to build a rapport with my colleagues—only through text messages of course—but it is happening. So let's see. I just see there's no reason for me to think because I've changed so much that I don't know what my likes and dislikes are. So that is currently protecting me from any kind of bewilderment. The fact that certain things need to be done keeps me involved. There are times when I'm free, I don't know what to do. I used to waste myself earlier but I'm not even doing that.
 
 
-Therapist Statement 11:
-There's almost like this dual feedback system now that you have at work. One is about social relationships that are developing and the other is your own work competence—and what kind of working works best. When we’re looking at both of those things, I wonder if it’s shifting and changing the way that you think about yourself.
-________________
+TS11: There's almost like this dual feedback system now that you have at work. One is about social relationships that are developing and the other is your own work competence—and what kind of working works best. When we’re looking at both of those things, I wonder if it’s shifting and changing the way that you think about yourself.
+
+CS14: It definitely has. But I don't have time to reflect on that. So maybe you could probe some questions probably. I was thinking—last week you said you wanted to find out the nature of my attachment or something like that. The work part I have some kind of process in place. So I'll go along with that. Something comes up, we can discuss. But in the meantime, yeah, these are 
 
 
-Client Statement 14:
-It definitely has. But I don't have time to reflect on that. So maybe you could probe some questions probably. I was thinking—last week you said you wanted to find out the nature of my attachment or something like that. The work part I have some kind of process in place. So I'll go along with that. Something comes up, we can discuss. But in the meantime, yeah, these are things which are going to probably bother me when I'm not working.
-________________
 
-
-Therapist Statement 12:
-I had hoped that this would happen—that you’d pivot toward that part of the conversation yourself. But I also want to make sure we float there with some comfort. So let’s not go into the difficult zone right away. We’ll start with something very basic.
+TS12: I had hoped that this would happen—that you’d pivot toward that part of the conversation yourself. But I also want to make sure we float there with some comfort. So let’s not go into the difficult zone right away. We’ll start with something very basic.
 Why don’t you describe to me your household when you were growing up—specifically between the ages of 1 to 18? Who lived with you? What were house rules? What did daily life look like? Who were you attached to?
-________________
 
 
-Client Statement 15:
-So mine was a nuclear family. My parents, me, and my sister. We lived in several locations in the country. My father had a transferable job—central government. So I was really good at studies. But at home... so there was no corporal punishment ever, only a threat of it. Sometimes my father got really angry and he would wave a piece of paper around. That’s about it.
+CS15: So mine was a nuclear family. My parents, me, and my sister. We lived in several locations in the country. My father had a transferable job—central government. So I was really good at studies. But at home... so there was no corporal punishment ever, only a threat of it. Sometimes my father got really angry and he would wave a piece of paper around. That’s about it.
 And my mom was basically adjusting. She had schizophrenia herself. In my early childhood—when I was in UKG or something—maybe once or twice we saw her getting aggressive. But my dad was pretty non-reactive, nonresponsive. Sometimes he would just say, “Go and sit down” or “Go and sleep.” That’s what he would say, that’s about it. So my mom's mental condition never really affected our childhood that much. I can't speak for my sister, but for me, it didn’t.
 I do realize my mom was more affectionate toward me than to my sister. That I realized. And I think I used to make up for it by being more affectionate to my sister from my side. That used to happen a lot. So if my mom yelled at her and she was crying, I would just go and comfort her. Then I would take her to play or something. She would come along. This was—I think—before the age of 8 or 10 for me.
-________________
 
 
-Therapist Statement 13:
-How does it feel like talking about your sister right now? I think you're recollecting a happy memory.
-________________
+
+TS13: How does it feel like talking about your sister right now? I think you're recollecting a happy memory.
 
 
-Client Statement 16:
-No, I’m not bitter at my sister. We had a good childhood. I just think that she's acting out now without looking at any evidence. That's what she does. She's a moody person—I know that. And unfortunately, I cannot make her feel otherwise. So she is a person who looks at symptoms rather than the cause—at least when it comes to me.
+
+CS16: No, I’m not bitter at my sister. We had a good childhood. I just think that she's acting out now without looking at any evidence. That's what she does. She's a moody person—I know that. And unfortunately, I cannot make her feel otherwise. So she is a person who looks at symptoms rather than the cause—at least when it comes to me.
 But talking about childhood doesn’t make me feel bad at all. We really enjoyed it. We used to fight quite a bit—which is a sign of a healthy sibling, I guess. I do have my mind open to her, if she makes the effort. Because she has been unfair. So she has to realize it. And if she realizes, I'm willing to welcome her back to whatever extent is comfortable to me. But till then, I'm happy to ignore. She's not special in the current state of affairs. If she decides to end the relationship, I have no problem. It doesn't affect me. There’s no feeling like I lost a person. I have seen a lot of unfairness and injustice in my life. The past is more of a baggage. Things are looking good right now. So it's okay to look forward.
-________________
 
 
-Therapist Statement 14:
-There’s a different kind of pain that comes with conflict with a sibling. No one else has witnessed your life like a sibling has. They’ve lived in the same household, seen the same parents—or at least similar versions of them.
+
+TS14: There’s a different kind of pain that comes with conflict with a sibling. No one else has witnessed your life like a sibling has. They’ve lived in the same household, seen the same parents—or at least similar versions of them.
 When you say she focuses more on symptoms than causes, I hear a lot of pain in that. It feels like a deep expectation was not met. And I think that disappointment still lives somewhere inside you. There’s also hope—I hear it in the way you say that if she realizes it, you’d still welcome her back.
-________________
 
 
-Client Statement 17:
-Yeah, I don't know if it's going to happen. But if it does, I'm open to giving the benefit of doubt. I'm willing to listen—at the very least. Whether I do anything about it is a different thing, but definitely I’d listen and not start with my own list. Living alone has taught me that I cannot have these negative things running inside me. It just doesn't help.
+
+CS17: Yeah, I don't know if it's going to happen. But if it does, I'm open to giving the benefit of doubt. I'm willing to listen—at the very least. Whether I do anything about it is a different thing, but definitely I’d listen and not start with my own list. Living alone has taught me that I cannot have these negative things running inside me. It just doesn't help.
 So if I know how to keep myself happy when living by myself—and I feel happier when I'm giving to people—then I’m okay. When I’m with people, I give to people. That’s a simpler way of achieving some contentment than coming up with special things to do for specific people. That takes too much effort, and I have to save that energy for work right now.
-________________
 
 
-Therapist Statement 15:
-That’s exactly why I want to suggest something a little different today. I know we’ve circled this topic many times—sometimes you trail off, sometimes your thoughts scatter. And I think that tells us this might be reaching an emotional upper limit in the moment.
+
+TS15: That’s exactly why I want to suggest something a little different today. I know we’ve circled this topic many times—sometimes you trail off, sometimes your thoughts scatter. And I think that tells us this might be reaching an emotional upper limit in the moment.
 Would you be open to writing a letter to your sister? One that you won’t send, but can bring into session? It can hold whatever you need it to—disappointment, anger, confusion, even some hope. You don’t have to write it this week if that feels too soon, but I’d like us to move toward it over the next few weeks. It might give those feelings a shape outside of you, so they don’t have to stay only inside your head.
-________________
 
 
 
 
-Client Statement 18:
-We had to do this at some point because I had to overcome all the other structural things I needed to put in place—which are now coming into place. The behavioral things, we had to deal with at some point.
+
+CS18: We had to do this at some point because I had to overcome all the other structural things I needed to put in place—which are now coming into place. The behavioral things, we had to deal with at some point.
 It does make me uncomfortable to talk about this again and again because this has gone through my mind so many times. But it's okay. I mean, you actually gave an exercise now—so it’s something which has some physical activity associated.
-________________
 
-
-Therapist Statement 16:
-I'm so glad you labeled that frustration. Because it's almost like—in real time—you’re noticing what it feels like to be sitting with that feeling. It’s not just the things you feel about your sister or the situation—it’s also the feelings about actively engaging with those thoughts. The moment we arrive there, the feelings become charged. It’s not just the primary emotion. There's a secondary layer—switching tracks between what you were saying and the thought that might be surfacing underneath.
+TS16: I'm so glad you labeled that frustration. Because it's almost like—in real time—you’re noticing what it feels like to be sitting with that feeling. It’s not just the things you feel about your sister or the situation—it’s also the feelings about actively engaging with those thoughts. The moment we arrive there, the feelings become charged. It’s not just the primary emotion. There's a secondary layer—switching tracks between what you were saying and the thought that might be surfacing underneath.
 And like you said, maybe as we continue to have this conversation, paying attention to your breathing or how it’s showing up in your body may really help. So thank you for naming that—it’s definitely frustrating. But I’m hoping that as we work through it, it won’t feel quite as heavy to hold.
-________________
 
 
-Client Statement 19:
-Yeah, sure. I'm sure it will happen.
+CS19: Yeah, sure. I'm sure it will happen.
+
