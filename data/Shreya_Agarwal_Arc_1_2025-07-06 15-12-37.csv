@@ -1,0 +1,2 @@
+Rater,Arc No,Batch No,Date,Time,Client Readiness (Before),CS Range Start,CS Range End,Client Readiness (After),Row1_TS#,Row1_TF,Row1_Impact,Row1_Confidence,Row1_Notes,Row2_TS#,Row2_TF,Row2_Impact,Row2_Confidence,Row2_Notes,Row3_TS#,Row3_TF,Row3_Impact,Row3_Confidence,Row3_Notes,Row4_TS#,Row4_TF,Row4_Impact,Row4_Confidence,Row4_Notes,Row5_TS#,Row5_TF,Row5_Impact,Row5_Confidence,Row5_Notes
+Shreya Agarwal,Arc_1,Batch_1,2025-07-06,15:12:37,Not open,1,19,Not open,1,1,+1,1,,1,1,+1,1,,1,1,+1,1,,1,1,+1,1,,1,1,+1,1,
