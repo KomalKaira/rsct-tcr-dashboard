@@ -81,6 +81,14 @@ with tempfile.NamedTemporaryFile(delete=False, suffix=".json", mode="w") as tmp:
     tmp.flush()
     tmp_path = tmp.name
 
+gauth = GoogleAuth()
+gauth.settings["client_config_backend"] = "service"
+gauth.settings["service_config"] = {
+    "client_json_file_path": tmp_path,
+    "client_user_email": service_creds["client_email"]
+}
+gauth.ServiceAuth()
+drive = GoogleDrive(gauth)
 
 # === AUTH ===
 @st.cache_data(ttl=2)
