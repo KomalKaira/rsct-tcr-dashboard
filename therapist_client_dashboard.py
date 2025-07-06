@@ -64,20 +64,23 @@ ENTRIES_FILE = os.path.join(DATA_DIR, "rater_entries.csv")
 ARCS_FILE = os.path.join(DATA_DIR, "arcs.csv")
 
 # === GOOGLE DRIVE AUTH (Streamlit + PyDrive2 with service account) ===
-service_creds = dict(st.secrets["google_service_account"])
+import json
+import tempfile
+
+try:
+    # ✅ Use secrets on Streamlit Cloud
+    service_creds = dict(st.secrets["google_service_account"])
+except Exception:
+    # ✅ Fallback to local credentials when running in VS Code
+    with open("data/service_account_credentials.json", "r") as f:
+        service_creds = json.load(f)
+
+# 🔐 Create a temporary credentials file for PyDrive2
 with tempfile.NamedTemporaryFile(delete=False, suffix=".json", mode="w") as tmp:
     json.dump(service_creds, tmp)
     tmp.flush()
     tmp_path = tmp.name
 
-gauth = GoogleAuth()
-gauth.settings["client_config_backend"] = "service"
-gauth.settings["service_config"] = {
-    "client_json_file_path": tmp_path,
-    "client_user_email": service_creds["client_email"]
-}
-gauth.ServiceAuth()
-drive = GoogleDrive(gauth)
 
 # === AUTH ===
 @st.cache_data(ttl=2)
