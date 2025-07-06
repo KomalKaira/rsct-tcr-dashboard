@@ -379,13 +379,20 @@ if st.session_state.get("authenticated") and st.session_state.get("rater_name") 
                     pdf_path = os.path.join(PDF_DIR, f"{rater_id}_{timestamp}.pdf")
                     pdf.output(pdf_path)
 
+                    PDF_FOLDER_ID = "1DZhaJ_6hNmQFj19BND4pwuLf-AoDUoDa"  # RSCT Rater Submissions
+
                     try:
-                        gfile = drive.CreateFile({'title': os.path.basename(pdf_path)})
+                        gfile = drive.CreateFile({
+                            'title': os.path.basename(pdf_path),
+                            'parents': [{'id': "1DZhaJ_6hNmQFj19BND4pwuLf-AoDUoDa"}]
+                        })
                         gfile.SetContentFile(pdf_path)
                         gfile.Upload()
-                        st.success("📄 PDF uploaded to Google Drive.")
+                        print("Uploaded file ID:", gfile['id'])
+                        st.success("📄 PDF uploaded to shared Google Drive folder.")
                     except Exception as e:
                         st.warning(f"⚠️ PDF upload failed: {e}")
+
 
                     try:
                         gfile_csv = drive.CreateFile({'title': 'rater_entries.csv'})
